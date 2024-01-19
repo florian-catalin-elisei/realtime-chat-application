@@ -1,0 +1,23 @@
+.TopMenu {
+  align-items: center;
+  background-color: #2979ff;
+  border-radius: 5px 5px 0 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.TopMenu-left {
+  align-items: center;
+  color: white;
+  display: flex;
+  margin-left: 15px;
+}
+
+.TopMenu-left-heading {
+  margin-left: 10px;
+}
+
+.TopMenu-right-image {
+  margin-right: 15px;
+}

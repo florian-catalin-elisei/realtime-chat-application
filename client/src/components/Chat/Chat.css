@@ -1,0 +1,14 @@
+.Chat-container {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+  .Chat-container {
+    width: 400px;
+  }
+}
