@@ -5,14 +5,12 @@ each other in realtime.
 
 ## Installation
 
-Install my-project with npm
-
-I. Frontend
+Install my project with npm
 
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/realtime-chat-application.git
+  git clone https://github.com/florian-catalin-elisei/realtime-chat-application.git
 ```
 
 2. Navigate to the project directory:
@@ -21,13 +19,21 @@ I. Frontend
   cd realtime-chat-application
 ```
 
-3. Install the dependencies:
+I. Frontend
+
+1. Navigate to the client directory:
+
+```bash
+  cd client
+```
+
+2. Install the dependencies:
 
 ```bash
   npm install
 ```
 
-4. Start the development server:
+3. Start the development server:
 
 ```bash
   npm start
@@ -35,7 +41,7 @@ I. Frontend
 
 II. Backend
 
-1. Navigate to the project directory:
+1. Navigate to the server directory:
 
 ```bash
   cd server
